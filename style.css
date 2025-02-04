@@ -174,3 +174,16 @@
     border-radius: 8px;
     border: 2px solid #F9FAF8;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
+
+.footer .container {
+    max-width: 1100px;
+    padding: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
